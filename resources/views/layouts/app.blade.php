@@ -15,6 +15,5 @@
 </head>
 <body>
     {{$slot}}
-    sdlkfjsdklfjjasdklfjasdklfjasdklfj
 </body>
 </html>
